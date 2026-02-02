@@ -43,3 +43,13 @@ Identified policy types with higher rejection rates
 Observed trends in claim submissions over time
 
 Enabled quick monitoring of overall claim performance
+
+## Skills Demonstrated
+
+Data modeling and DAX in Power BI
+
+KPI-driven analytical reporting
+
+Time-series and comparative analysis
+
+Dashboard performance and usability optimization
